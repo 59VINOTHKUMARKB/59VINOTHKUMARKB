@@ -1,91 +1,77 @@
-<h1 align="center">Hello 👋, I'm VINOTH KUMAR K B</h1>
-<h3 align="center">Translating ideas into code, and code into innovation ✨💻</h3>
+<h1 align="center">Hi 👋, I'm Vinoth Kumar K B</h1>
+<h3 align="center">A passionate Full Stack Developer & Final-Year CSE Student | MERN Stack | Java Enthusiast</h3>
 
-
-- 🌱 I’m currently learning **Web Development, Core CS Concepts, DSA**
-
-- 📫 Reach me at **vinothkumar05kb@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/vinoth-kumar-k-b-6b7686265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/vinothkumar_0509" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
+<p align="center">
+  <a href="https://github.com/59VINOTHKUMARKB"><img src="https://komarev.com/ghpvc/?username=59vinothkumarkb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></a>
 </p>
 
 ---
 
-<h3 align="left">Languages & Technologies:</h3>
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <!-- Frameworks & Libraries -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-</p>
+### 💫 About Me
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
-  </a>
+- 🎓 Final-year Computer Science Engineering student at **Velammal College of Engineering and Technology**
+- 💻 Passionate about **Data Structures, Full Stack Development**, and **Scalable Systems**
+- 🚀 Currently learning **AI**, **Low-Level Design**, and modern **Backend Engineering**
+- 🛠️ Building real-world products like **VCET Connect** – reducing academic paperwork by 90%
+- 💬 Ask me about **Java**, **React**, **MongoDB**, **APIs**, or anything MERN!
+- 📫 Reach me at **vinothkumarkb22cseb59@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+- 💻 Languages: `Java`, `Python`, `C`
+- 🌐 Frontend: `React.js`, `HTML`, `CSS`, `JavaScript`, `Tailwind CSS`
+- 🛠️ Backend: `Node.js`, `Express.js`
+- 🗄️ Databases: `MongoDB`, `MySQL`
+- ⚙️ Tools: `Git`, `Postman`, `VS Code`
+
+---
+
+### 🌟 Projects
+
+#### 🚀 [VCET Connect – Student Management System](https://vcet-connect.onrender.com/)
+A centralized web app that digitized workflows for 550+ students and 25+ faculty.
+> Tech Stack: React.js, TailwindCSS, Node.js, Express.js, MongoDB
+
+---
+
+### 🧠 Certifications
+
+- Human Computer Interaction – NPTEL (2025)
+- Introduction to AI – Coursera (2024)
+- SQL Practical – IBM via Coursera (2024)
+- Backend Development – Meta (2023)
+
+---
+
+### 🎓 Achievements
+
+- 🥇 1st Place – Coding Competition @ TCE  
+- 🥉 3rd Place – SQL Contest @ TCE  
+- 👨‍🏫 Mentored juniors in MERN under VCET's **Train the Trainer** initiative
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=59VINOTHKUMARKB&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=59VINOTHKUMARKB&theme=tokyonight" />
 </p>
 
 ---
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=59vinothkumarkb&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</div>
+### 🌍 Let's Connect
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=59vinothkumarkb&show_icons=true&locale=en" alt="GitHub Stats"/>
-</div>
-
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=59vinothkumarkb&" alt="GitHub Streak"/>
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/vinoth-kumar-k-b-6b7686265/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin"/></a>
+  <a href="mailto:vinothkumarkb22cseb59@gmail.com"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png" alt="gmail"/></a>
+  <a href="https://leetcode.com/vinothkumar05kb"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="leetcode"/></a>
+  <a href="https://www.hackerrank.com/22cseb59_Vinoth"><img align="center" src="https://img.icons8.com/windows/30/000000/hackerrank.png" alt="hackerrank"/></a>
+  <a href="https://www.geeksforgeeks.org/user/vinothku6yh9/"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/null/external-geeksforgeeks-a-computer-science-portal-for-geeks-logo-color-tal-revivo.png" alt="gfg"/></a>
+</p>
 
 ---
 
-<h3 align="center">Support 🙏</h3>
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
