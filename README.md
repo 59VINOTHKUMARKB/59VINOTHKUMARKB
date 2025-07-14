@@ -6,13 +6,11 @@
 - 🎓 Final-year Computer Science Engineering student at **Velammal College of Engineering and Technology**
 - 🌱 Currently learning **Web Development, Core CS Concepts, and DSA**
 - 🚀 Built **VCET Connect** – reducing academic paperwork for 550+ students by 90%
-- 💬 Ask me about **MERN Stack**, **DSA**, or anything Java!
-- 📫 Reach me at **vinothkumar05kb@gmail.com**
+- 📫 Reach me at **vinothkumarkb22cseb59@gmail.com || vinothkumar05kb@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack (with Icons)
-
+## 🛠️ Tech Stack
 ### 💻 Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
@@ -89,29 +87,16 @@ A full-stack academic management platform that streamlines communication and ope
 
 ---
 
-## 🤝 Let’s Connect
+## 📌 Coding Profiles
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vinoth-kumar-k-b-6b7686265" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/vinothkumar_0509" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="mailto:vinothkumar05kb@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png" alt="Gmail"/>
-  </a>
-  <a href="https://leetcode.com/vinothkumar05kb">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/22cseb59_Vinoth">
-    <img src="https://img.icons8.com/windows/30/000000/hackerrank.png" alt="HackerRank"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/vinothku6yh9/">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/000000/external-geeksforgeeks-a-computer-science-portal-for-geeks-logo-color-tal-revivo.png" alt="GeeksForGeeks"/>
-  </a>
-</p>
+<div align="center">
 
----
+| Platform | Achievement | Badge |
+|----------|-------------|-------|
+| **LeetCode** | 450+ Problems Solved | [![LeetCode](https://img.shields.io/badge/LeetCode-450%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vinothkumar05kb) |
+| **GeeksforGeeks** | 100+ Problems Solved | [![GFG](https://img.shields.io/badge/GeeksforGeeks-100%2B%20Problems-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vinothku6yh9/) |
+| **HackerRank** | Gold Badge in Java | [![HackerRank](https://img.shields.io/badge/HackerRank-Gold%20Badge%20in%20Java-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/22cseb59_Vinoth) |
+
+</div>
 
 <h3 align="center">“Code is like humor. When you have to explain it, it’s bad.” – Cory House</h3>
