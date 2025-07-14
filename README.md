@@ -81,9 +81,6 @@ A full-stack academic management platform that streamlines communication and ope
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=59vinothkumarkb&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=59vinothkumarkb&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
