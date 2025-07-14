@@ -51,6 +51,20 @@
 
 ---
 
+## 🚀 Projects
+
+### 💼 [VCET Connect – Student Management System](https://vcet-connect.onrender.com/)
+A full-stack academic management platform that streamlines communication and operations within an engineering college ecosystem.
+
+- 🔹 Developed to **digitize and automate academic workflows** for over 550 students and 25+ faculty members.
+- 🔹 Enabled features like **leave requests**, **OnDuty approvals**, **defaulter tracking**, and **real-time academic status**.
+- 🔹 Achieved a **90% reduction in paperwork** and manual errors.
+- 🔹 Contributed as **Full Stack Developer** during an in-house internship and **Train the Trainer** mentorship program.
+- 🔹 **Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Git
+- 🔗 [Live Demo](https://vcet-connect.onrender.com/)
+
+---
+
 ## 🏆 Achievements
 
 - 🥇 **1st Place** – Coding Competition @ Thiagarajar College of Engineering  
